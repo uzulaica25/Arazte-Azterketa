@@ -22,10 +22,11 @@ namespace BukleAkats
             // 2. AKATSA
             int kontagailua = 0;
 
-            while (kontagailua < 5)
-            {
-                Console.WriteLine($"4. Kontagailua: {kontagailua}");
-            }
+           while (kontagailua < 5)
+    {
+    Console.WriteLine($"4. Kontagailua: {kontagailua}");
+    kontagailua++;
+    }
 
 
             // 3. AKATSA
