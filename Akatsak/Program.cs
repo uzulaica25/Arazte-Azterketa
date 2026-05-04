@@ -48,7 +48,7 @@ namespace BukleAkats
 
             for (int i = 0; i < balioMistoa.Length; i++)
             {
-                emaitza += balioMistoa[i] + balioMistoa[i];
+                emaitza += balioMistoa[i];
             }
 
             Console.WriteLine($"7. Zenbakien batura: {emaitza}");
