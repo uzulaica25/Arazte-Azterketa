@@ -1,0 +1,14 @@
+C:\Users\unax5\Downloads\Akatsak\Akatsak\bin\Debug\net8.0\Akatsak.exe
+C:\Users\unax5\Downloads\Akatsak\Akatsak\bin\Debug\net8.0\Akatsak.deps.json
+C:\Users\unax5\Downloads\Akatsak\Akatsak\bin\Debug\net8.0\Akatsak.runtimeconfig.json
+C:\Users\unax5\Downloads\Akatsak\Akatsak\bin\Debug\net8.0\Akatsak.dll
+C:\Users\unax5\Downloads\Akatsak\Akatsak\bin\Debug\net8.0\Akatsak.pdb
+C:\Users\unax5\Downloads\Akatsak\Akatsak\obj\Debug\net8.0\Akatsak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unax5\Downloads\Akatsak\Akatsak\obj\Debug\net8.0\Akatsak.AssemblyInfoInputs.cache
+C:\Users\unax5\Downloads\Akatsak\Akatsak\obj\Debug\net8.0\Akatsak.AssemblyInfo.cs
+C:\Users\unax5\Downloads\Akatsak\Akatsak\obj\Debug\net8.0\Akatsak.csproj.CoreCompileInputs.cache
+C:\Users\unax5\Downloads\Akatsak\Akatsak\obj\Debug\net8.0\Akatsak.dll
+C:\Users\unax5\Downloads\Akatsak\Akatsak\obj\Debug\net8.0\refint\Akatsak.dll
+C:\Users\unax5\Downloads\Akatsak\Akatsak\obj\Debug\net8.0\Akatsak.pdb
+C:\Users\unax5\Downloads\Akatsak\Akatsak\obj\Debug\net8.0\Akatsak.genruntimeconfig.cache
+C:\Users\unax5\Downloads\Akatsak\Akatsak\obj\Debug\net8.0\ref\Akatsak.dll
